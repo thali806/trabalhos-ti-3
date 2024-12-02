@@ -1,4 +1,6 @@
-fibonacci ant = atual = numAux = cont = valor = 0
+fibonacci 
+
+ant = atual = numAux = cont = valor = 0
 
 valor = int(input("Digite um número: "))
 
